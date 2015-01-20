@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kaitou-office.iml" filepath="$PROJECT_DIR$/kaitou-office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaitou-office-excel/kaitou-office-excel.iml" filepath="$PROJECT_DIR$/kaitou-office-excel/kaitou-office-excel.iml" />
+    </modules>
+  </component>
+</project>
+
